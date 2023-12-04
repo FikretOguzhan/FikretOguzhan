@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fikret Oğuzhan Ulus</h1>
-<h3 align="center">Electrical and Electronics Enginner and Artificial Intelligence Engineer from Turkey.</h3>
+<h3 align="center">Electrical and Electronics Engineer and Artificial Intelligence Engineer from Turkey.</h3>
 
 - 👨‍💻 You can also reach my projects on [https://www.kaggle.com/fikretulus](https://www.kaggle.com/fikretulus)
 
